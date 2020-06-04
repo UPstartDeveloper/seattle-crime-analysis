@@ -31,4 +31,4 @@ Note: these descriptions were taken from the SPD_DSG_OFFENSE_METADATA.pdf docume
 This analysis was conducted as a part of completing the SPD 1.5: Leadership and Management course at Make School
 
 ## Total Time Taken 
-**Time Will Go Here**
+**So Far: 3 hours**
