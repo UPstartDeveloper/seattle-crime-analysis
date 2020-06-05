@@ -24,7 +24,7 @@ The other file records crime data over the years from 2008 to present time. The 
     - Precinct: Designated police precinct boundary where offense(s) occurred. 
     - Row_Value_ID: Primary value for the crime
     
-Note: these descriptions were taken from the SPD_DSG_OFFENSE_METADATA.pdf document, which can be downloaded from this dataset's [latest posting on the Seattle open data platform](https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5).
+Note: these descriptions were taken from the SPD_DSG_OFFENSE_METADATA.pdf document, which can be downloaded from this dataset's [latest posting on the Seattle open data platform](https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5). Alternatively, I also uploaded it to this repository, and renamed it [Column_Description.pdf](Column_Descriptions.pdf).
     
    
 ## Take Home Project
