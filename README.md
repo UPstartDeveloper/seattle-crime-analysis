@@ -28,7 +28,7 @@ Note: these descriptions were taken from the SPD_DSG_OFFENSE_METADATA.pdf docume
     
    
 ## Take Home Project
-This analysis was conducted as a part of completing the SPD 1.5: Leadership and Management course at Make School
+Notebook can be found [here](analysis.ipynb).This analysis was conducted as a part of completing the SPD 1.5: Leadership and Management course at Make School
 
 ## Total Time Taken 
-**So Far: 3 hours**
+**4 hours 15 min**
